@@ -3,4 +3,11 @@ bin/
 obj/
 Debug/
 Release/
+AppPackages/
+BundleArtifacts/
 *.user
+*.log
+*.wrn
+*.err
+*.binlog
+*.cache
