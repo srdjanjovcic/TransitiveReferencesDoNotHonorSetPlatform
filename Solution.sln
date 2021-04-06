@@ -8,9 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UwpApp", "UwpApp\UwpApp.csproj", "{1CD00BC8-9260-4863-B74D-A88BD654D764}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{121DC97F-C905-49E5-BACF-BC426F356EED}"
-	ProjectSection(ProjectDependencies) = postProject
-		{FCA95E19-1173-4EC8-8060-ADA268B752B8} = {FCA95E19-1173-4EC8-8060-ADA268B752B8}
-	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NativeDLL", "NativeDLL\NativeDLL.vcxproj", "{FCA95E19-1173-4EC8-8060-ADA268B752B8}"
 EndProject
